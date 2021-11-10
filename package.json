@@ -1,0 +1,20 @@
+{
+  "name": "guedesdb",
+  "version": "1.0.0",
+  "description": "Dynamic Local/Globally hosted Database for all your node based projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoGuedes01/guedesDB.git"
+  },
+  "keywords": [],
+  "author": "conaboi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoGuedes01/guedesDB/issues"
+  },
+  "homepage": "https://github.com/JoaoGuedes01/guedesDB#readme"
+}
