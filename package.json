@@ -1,8 +1,8 @@
 {
   "name": "guedesdb",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Dynamic Local/Globally hosted Database for all your node based projects",
-  "main": "index.js",
+  "main": "guedesDB.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/JoaoGuedes01/guedesDB.git"
   },
-  "keywords": [],
+  "keywords": ["The dynamic database of your dreams","easy to use","guedes"],
   "author": "conaboi",
   "license": "ISC",
   "bugs": {
